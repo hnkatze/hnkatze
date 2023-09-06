@@ -1,0 +1,5 @@
+-👋 Hi, I'm @hnkatze.
+-👀 I'm interested in both back-end and front-end development for websites and applications. I enjoy creating tech solutions that work well and look good.
+-🌱 I'm currently learning continuously, always seeking the best practices in the programming languages I already know and staying updated with documentation and tech trends. Technology moves fast, and I believe ongoing education is key to success in this field.
+-💞️ I'm looking to collaborate on innovative projects that challenge my skills and allow me to learn and grow as a developer. I love working in teams and hope to someday be part of a permanent team that shares my passion for technology.
+-📫 You can reach me at henriquezhector1@hotmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/camilo-henriquez-29b5a9114/.
