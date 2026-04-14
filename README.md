@@ -1,57 +1,64 @@
-# 👋 ¡Hola! Soy Camilo Henríquez (@hnkatze)
+# 👋 Camilo Henríquez — `@hnkatze`
 
-**Full Stack Developer** con una obsesión por crear experiencias digitales que combinan **funcionalidad robusta** con **diseño impecable**.
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square) ![Location](https://img.shields.io/badge/Honduras-%F0%9F%87%AD%F0%9F%87%B3-blue?style=flat-square) ![Focus](https://img.shields.io/badge/Focus-Full--Stack%20%26%20Mobile-orange?style=flat-square)
 
-## 🚀 Mi Enfoque
-No solo escribo código, **construyo soluciones**. Mi filosofía es simple: la tecnología debe resolver problemas reales mientras deleita a quien la usa. Cada línea de código que escribo tiene un propósito: crear experiencias que marquen la diferencia.
-
-### 💡 Lo que me define:
-- **Mentalidad Full Stack**: Domino tanto la lógica del servidor como la magia del front-end
-- **Obsesión por los detalles**: Desde la arquitectura del back-end hasta las micro-interacciones
-- **Aprendizaje continuo**: En tech, evolucionar no es opcional, es supervivencia
-
-## 🛠️ Mi Arsenal Tecnológico
-
-**Frontend Crafting:**
-- ⚛️ React/Next.js - Para interfaces que cobran vida
-- 🚀 Astro - Velocidad y performance sin compromisos
-- 🔥 TypeScript - Porque el código debe ser predecible
-
-**Backend Engineering:**
-- 🟢 Node.js/Express - Servidores robustos y escalables
-- 🗄️ MongoDB/MySQL - Datos organizados, aplicaciones potentes
-- ☁️ AWS - Infraestructura que escala contigo
-
-**DevOps & Tools:**
-- 🐳 Docker - Consistencia en todos los entornos
-- 📦 Git - Versionado inteligente y colaboración fluida
-
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,nodejs,express,mongodb,mysql,aws,git,docker)
-
-## 🎯 Mi Misión Actual
-Busco formar parte de un equipo donde pueda:
-- 🔧 **Resolver desafíos complejos** con soluciones elegantes
-- 🚀 **Impulsar productos** desde la idea hasta el usuario final
-- 📈 **Crecer profesionalmente** junto a mentes brillantes
-- 🌟 **Contribuir** a proyectos que generen impacto real
-
-## 🌟 ¿Por qué trabajar conmigo?
-- **Versatilidad total**: From database to deployment, I've got you covered
-- **Mentalidad de producto**: Pienso en el usuario final, no solo en el código
-- **Colaboración activa**: Mejor código nace de mejores equipos
-- **Pasión genuina**: Esto no es solo trabajo para mí, es mi vocación
-
-## 🤝 Conectemos y Construyamos Juntos
-
-**¿Tienes un proyecto desafiante? ¿Buscas alguien que transforme ideas en realidad digital?**
-
-📧 **Email:** [henriquezhector1@hotmail.com](mailto:henriquezhector1@hotmail.com)  
-💼 **LinkedIn:** [/camilo-henriquez](https://www.linkedin.com/in/camilo-henriquez-29b5a9114/)  
-🐙 **GitHub:** [/hnkatze](https://github.com/hnkatze)  
-🌐 **Portfolio:** [Descubre mis proyectos](https://portafolio-hnkatze.vercel.app/)
+Full-Stack Developer desde Honduras 🇭🇳. Construyo productos web y mobile con **Angular**, **Next.js**, **Astro** y **Flutter** — obsesionado con TypeScript estricto, Tailwind v4 y arquitecturas limpias que escalen sin dolor.
 
 ---
 
-> *"En un mundo donde la tecnología cambia constantemente, mi constante es la pasión por crear soluciones que importen."*
+## 🛠️ Stack actual
 
-**¡Hablemos sobre cómo podemos construir el futuro digital juntos!** 🚀
+**Frontend**
+- **Angular 21+** — signals, standalone components, signal forms
+- **Next.js** (App Router) + **React** — cuando SSR manda
+- **Astro** — sites estáticos y de contenido rápidos
+- **Flutter** + **Dart** — mobile con Clean Architecture + Riverpod 3
+- **Tailwind CSS v4** — utility-first, container queries, oklch
+- **PrimeNG** / **shadcn** — sistemas de componentes
+
+**Backend & Data**
+- **Node.js** + **Express** — APIs REST y servicios
+- **Firebase** — auth, Firestore, functions
+- **PostgreSQL** / **MongoDB** / **MySQL**
+
+**Tooling & Workflow**
+- **TypeScript** estricto — sin `any`, con `satisfies`, `as const`, branded types
+- **Docker**, **Vercel**, **Git** + Conventional Commits
+- **Figma → código** con workflows automatizados
+
+![Stack](https://skillicons.dev/icons?i=ts,angular,nextjs,react,astro,tailwind,flutter,dart,nodejs,firebase,postgres,mongodb,docker,vercel,figma,git)
+
+---
+
+## 🎯 En lo que estoy ahora
+
+- Refinando patrones de **Spec-Driven Development (SDD)** para entregar features con menos fricción entre diseño e implementación.
+- Profundizando en **Angular Signal Forms** y el nuevo stack reactivo de v21+.
+- Construyendo herramientas internas que unifiquen **diseño (Figma) y código** con validación automática.
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hnkatze&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnkatze&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hnkatze&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Dónde encontrarme
+
+| | |
+|---|---|
+| 🌐 **Portfolio** | [camilohenriquez.com](https://www.camilohenriquez.com) |
+| 💼 **LinkedIn** | [/camilo-henriquez](https://www.linkedin.com/in/camilo-henriquez-29b5a9114/) |
+| 📧 **Email** | [henriquezhector1@hotmail.com](mailto:henriquezhector1@hotmail.com) |
+
+---
+
+*¿Trabajás en algo interesante o tenés un reto técnico complicado? **Hablemos**.* 🚀
